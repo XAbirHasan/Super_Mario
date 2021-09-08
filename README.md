@@ -9,7 +9,7 @@ Project No: 5 <br>
 Year: late 2017
 
 ## Demo Video
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/4STe2x3ahlA/0.jpg)](http://www.youtube.com/watch?v=4STe2x3ahlA "Master Archer || iGraphics")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/4STe2x3ahlA/0.jpg)](http://www.youtube.com/watch?v=4STe2x3ahlA "Super Mario || iGraphics")
 
 ## Screen shot
 ### Homescreen
