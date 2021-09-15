@@ -4,7 +4,7 @@ In childhood I used to play this game on TV. Then in 2017 I made this game in ju
 ## Project description
 Name: Super Mario <br>
 Programming Language: C & C++ <br>
-GUI: iGraphics
+GUI: iGraphics <br>
 Project No: 5 <br>
 Year: late 2017
 
